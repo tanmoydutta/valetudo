@@ -3,4 +3,7 @@ It is a Module to show information on a 1.54" 200 x 200 pixel Black and White eP
 
 ![alt text](https://github.com/tanmoydutta/valetudo/blob/main/images/Valetudo_Top.png?raw=true)
 
+Below is the built module running a test sketch -
+![alt text](https://github.com/tanmoydutta/valetudo/blob/main/images/Circuit_and_ePaper.png?raw=true)
+
 ![alt text](https://github.com/tanmoydutta/valetudo/blob/main/images/oshw_license.png?raw=true)
