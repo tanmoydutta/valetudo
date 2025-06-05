@@ -6,4 +6,7 @@ It is a Module to show information on a 1.54" 200 x 200 pixel Black and White eP
 Below is the built module running a test sketch -
 ![alt text](https://github.com/tanmoydutta/valetudo/blob/main/images/Circuit_and_ePaper.png?raw=true)
 
+This is an OSHWA certified hardware - 
+![alt text](https://github.com/tanmoydutta/valetudo/blob/main/images/certification-mark-NL000029-wide.png?raw=true)
+
 ![alt text](https://github.com/tanmoydutta/valetudo/blob/main/images/oshw_license.png?raw=true)
