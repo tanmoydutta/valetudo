@@ -8543,7 +8543,7 @@ Source: &lt;a href="https://www.molex.com/pdm_docs/sd/524352471_sd.pdf"&gt; Data
 <part name="J1" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="CONN_01" device="PTH_2MM" package3d_urn="urn:adsk.eagle:package:38029/2"/>
 <part name="J3" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="CONN_01" device="PTH_2MM" package3d_urn="urn:adsk.eagle:package:38029/2"/>
 <part name="GND4" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="SW2" library="B3U-1000P" deviceset="B3U-1000P" device="" override_package3d_urn="urn:adsk.eagle:package:45632076/2" override_package_urn="urn:adsk.eagle:footprint:45632077/1"/>
+<part name="SW2" library="B3U-1000P" deviceset="B3U-1000P" device="" override_package3d_urn="urn:adsk.eagle:package:45632076/4" override_package_urn="urn:adsk.eagle:footprint:45632077/1"/>
 <part name="GND1" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 <part name="VDD_NRF1" library="supply2" deviceset="VCC" device="" value="VDD_P3V3"/>
 <part name="Q1" library="DMG3415U-7" deviceset="DMG3415U-7" device="" override_package3d_urn="urn:adsk.eagle:package:44912762/2" override_package_urn="urn:adsk.eagle:footprint:44912763/1"/>

@@ -200,7 +200,7 @@
 <layer number="255" name="Accent" color="7" fill="1" visible="no" active="yes"/>
 </layers>
 <board>
-<fusionsync huburn="a.YnVzaW5lc3M6Z21haWw0NzgwODAx" projecturn="a.YnVzaW5lc3M6Z21haWw0NzgwODAxIzIwMjUwNTE1OTI2NTcyMjUx" f3durn="urn:adsk.wipprod:dm.lineage:QdVuzxnMTrefY1gPLtsvxg" pcbguid="" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="a0e786ad-3ca2-491d-8468-f6f23e8571fc" lastsyncedrevisionid="a0e786ad-3ca2-491d-8468-f6f23e8571fc" lastboardhashguid="fc125f78-12a7-4949-48b3-8a5ff798ce7b" lastpushedtime="2025-05-30T18:42:25Z" linktopcb3d="true"/>
+<fusionsync huburn="a.YnVzaW5lc3M6Z21haWw0NzgwODAx" projecturn="a.YnVzaW5lc3M6Z21haWw0NzgwODAxIzIwMjUwNTE1OTI2NTcyMjUx" f3durn="urn:adsk.wipprod:dm.lineage:QdVuzxnMTrefY1gPLtsvxg" pcbguid="" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="6a450225-6b70-416a-a7e6-c44cc79137c5" lastsyncedrevisionid="6a450225-6b70-416a-a7e6-c44cc79137c5" lastboardhashguid="8e8fb181-9ff1-e67e-d66d-6496a1680dc1" lastpushedtime="2025-06-19T11:25:24Z" linktopcb3d="true"/>
 <plain>
 <rectangle x1="11.225" y1="2.5" x2="12.825" y2="3" layer="26"/>
 <wire x1="0" y1="2" x2="0" y2="8.75" width="0.01" layer="20"/>
@@ -1323,7 +1323,7 @@ design rules under a new name.</description>
 <element name="J3" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="1X01_2MM" package3d_urn="urn:adsk.eagle:package:38029/2" value="" x="2.25" y="30.7" smashed="yes">
 <attribute name="VALUE" x="0.599" y="28.287" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
-<element name="SW2" library="B3U-1000P" package="SW_B3U-1000P" override_package3d_urn="urn:adsk.eagle:package:45632076/2" override_package_urn="urn:adsk.eagle:footprint:45632077/1" value="B3U-1000P" x="14.8" y="31.3" smashed="yes" rot="R180">
+<element name="SW2" library="B3U-1000P" package="SW_B3U-1000P" override_package3d_urn="urn:adsk.eagle:package:45632076/4" override_package_urn="urn:adsk.eagle:footprint:45632077/1" value="B3U-1000P" x="14.8" y="31.3" smashed="yes" rot="R180">
 <attribute name="AVAILABILITY" value="Unavailable" x="14.8" y="31.3" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DESCRIPTION" value=" Switch Tactile N.O. SPST Round Button Gull Wing 0.05A 12VDC 1.5N SMD Embossed T/R " x="14.8" y="31.3" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="Omron" x="14.8" y="31.3" size="1.778" layer="27" rot="R180" display="off"/>
@@ -1607,7 +1607,7 @@ design rules under a new name.</description>
 <contactref element="U2" pad="11"/>
 <contactref element="R1" pad="1"/>
 <contactref element="U$2" pad="3"/>
-<via x="28.675" y="28.5" extent="1-16" drill="0.1"/>
+<via x="26.525" y="28.425" extent="1-16" drill="0.1"/>
 <via x="38.425" y="30.675" extent="1-16" drill="0.1"/>
 <wire x1="38.425" y1="30.67" x2="38.425" y2="30.675" width="0.3048" layer="16" curve="-45"/>
 <via x="32.425" y="30.825" extent="1-16" drill="0.1"/>
@@ -1618,8 +1618,8 @@ design rules under a new name.</description>
 <wire x1="36.297896875" y1="31.75" x2="38.09395" y2="31.00605" width="0.3048" layer="1" curve="-45"/>
 <wire x1="38.09395" y1="31.00605" x2="38.425" y2="30.675" width="0.3048" layer="1"/>
 <wire x1="34.402103125" y1="31.75" x2="36.297896875" y2="31.75" width="0.3048" layer="1"/>
-<wire x1="28.675" y1="28.5" x2="29.5289625" y2="28.5" width="0.3048" layer="14"/>
-<wire x1="29.5289625" y1="28.5" x2="31.14395" y2="29.16895" width="0.3048" layer="14" curve="45"/>
+<wire x1="26.525" y1="28.425" x2="29.347896875" y2="28.425" width="0.3048" layer="14"/>
+<wire x1="29.347896875" y1="28.425" x2="31.14395" y2="29.16895" width="0.3048" layer="14" curve="45"/>
 <wire x1="32.159834375" y1="30.184834375" x2="32.425" y2="30.825" width="0.3048" layer="14" curve="45"/>
 <wire x1="31.14395" y1="29.16895" x2="32.159834375" y2="30.184834375" width="0.3048" layer="14"/>
 </signal>
@@ -1723,8 +1723,8 @@ design rules under a new name.</description>
 <via x="35.875" y="28.125" extent="1-16" drill="0.1"/>
 <wire x1="35.885" y1="28.13" x2="35.883534375" y2="28.128534375" width="0.3048" layer="16"/>
 <wire x1="35.883534375" y1="28.128534375" x2="35.875" y2="28.125" width="0.3048" layer="16" curve="-45"/>
-<wire x1="22.525" y1="28.425" x2="22.882521875" y2="28.067478125" width="0.3048" layer="14"/>
-<wire x1="22.882521875" y1="28.067478125" x2="26.727103125" y2="26.475" width="0.3048" layer="14" curve="45"/>
+<wire x1="22.525" y1="28.425" x2="22.882528125" y2="28.067471875" width="0.3048" layer="14"/>
+<wire x1="22.882528125" y1="28.067471875" x2="26.727103125" y2="26.475" width="0.3048" layer="14" curve="45"/>
 <wire x1="33.172896875" y1="26.475" x2="34.96895" y2="27.21895" width="0.3048" layer="14" curve="45"/>
 <wire x1="34.96895" y1="27.21895" x2="35.875" y2="28.125" width="0.3048" layer="14"/>
 <wire x1="26.727103125" y1="26.475" x2="33.172896875" y2="26.475" width="0.3048" layer="14"/>
